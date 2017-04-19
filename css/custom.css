@@ -1,0 +1,14 @@
+.reveal .slides .start {
+  background-color:#df1b33;
+  font-family:AppleSDGothicNeo-UltraLight,HelveticaNeue-Light,sans-serif-light,'Malgun Gothic','맑은 고딕',sans-serif;
+  font-weight: normal;
+  padding: 30px 0;
+}
+.reveal .slides  .start h1{
+  text-transform:none;letter-spacing:-2px;color:#eff5d9;
+  font-family:AppleSDGothicNeo-UltraLight,HelveticaNeue-Light,sans-serif-light,'Malgun Gothic','맑은 고딕',sans-serif;
+  font-weight: normal;
+}
+.reveal .slides  .start .desc {
+  font-size: 60%;
+}

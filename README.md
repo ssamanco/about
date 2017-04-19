@@ -1,0 +1,1 @@
+https://samanco.kakaocorp.com
